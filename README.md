@@ -4,7 +4,7 @@
 ### Just a phantom wandering around the campus.</p>
 <ul>
 	<li> 📎 Contact: darrenhsiou@gmail.com
-	<li> 🌐 Personal website: https://phantom0174.github.io
+	<li> 🌐 Personal website: https://blog.phantom0174.online
 </ul>
 
 ---
